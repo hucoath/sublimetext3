@@ -1,0 +1,1 @@
+{"description": "Pyton module for Sublime Text to automatically style popups based on active color scheme.", "url": "https://github.com/huot25/StyledPopup/issues", "platforms": ["*"], "version": "1.0.1", "sublime_text": ">=3070"}
